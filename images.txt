@@ -1,4 +1,4 @@
-budtmo/docker-android:emulator_12.0
+stilleshan/docsify
+snowdreamtech/frpc
 #支持私库
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
